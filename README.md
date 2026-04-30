@@ -1,5 +1,3 @@
-Here’s a clean, professional `README.md` you can drop directly into your repo 👇
-
 ---
 
 # 📘 API Catalog System
