@@ -10,8 +10,6 @@ An automated system to **discover, extract, standardize, and explore APIs** acro
 
 The API Catalog System scans codebases, detects APIs, converts them into **OpenAPI specifications**, and provides a **centralized UI for search and exploration**.
 
-### 🎯 ObjectivesHere’s a clean, professional `README.md` you can drop directly into your repo 👇
-
 ---
 
 # 📘 API Catalog System
